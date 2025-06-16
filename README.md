@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction using Deep Learning
+# 📈 Stocks Price Prediction using Deep Learning
 
 This project aims to predict stock prices of **Apple** and **Tesla** using multiple deep learning models, including LSTM, GRU, Bidirectional LSTM, and Bidirectional GRU. The models are trained on historical stock data and fine-tuned for high accuracy on unseen data.
 
