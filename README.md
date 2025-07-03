@@ -11,7 +11,7 @@ This project aims to predict stock prices of **Apple** and **Tesla** using multi
 - **Models Used:**
   - GRU
   - LSTM
-  - Bidirectional LSTM bkjbyuvui
+  - Bidirectional LSTM 
   - Bidirectional GRU
 
 ---
